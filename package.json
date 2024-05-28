@@ -23,8 +23,10 @@
     "cross-env": "^7.0.0",
     "cssnano": "^7.0.1",
     "live-server": "^1.1.0",
-    "postcss-cli": "^7.0.0",
+    "postcss": "^8.4.38",
+    "postcss-cli": "^8.3.1",
     "postcss-import": "^12.0.1",
+    "postcss-purgecss": "^5.0.0",
     "tailwindcss": "^1.2.0"
   },
   "main": "postcss.config.js",
