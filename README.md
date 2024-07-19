@@ -14,7 +14,7 @@ How to run it
 Navigate to the base directory:
 
 ```
-cd universal-resume
+cd my-resume
 ```
 
 Install the dependencies:
