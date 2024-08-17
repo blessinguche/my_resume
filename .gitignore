@@ -2,6 +2,7 @@
 .vscode
 /node_modules/
 /docs/build.css
+/docs/old.html
 /tmp/
-
+/resume.tex
 .prettierconfig
